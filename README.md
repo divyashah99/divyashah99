@@ -83,7 +83,7 @@ I'm always interested in collaborating on interesting data science and machine l
 
 - Email: [shah.divyab@northeastern.edu](mailto:shah.divyab@northeastern.edu)
 - Phone: (857) 379-0299
-- LinkedIn: [https://www.linkedin.com/in/divyabshah/](https://www.linkedin.com/in/divyabshah/)
+- LinkedIn: [https://www.linkedin.com/in/divyashah99/](https://www.linkedin.com/in/divyashah99/)
 
 ---
 ⭐️ From [divyashah99](https://github.com/divyashah99)
