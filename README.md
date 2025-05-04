@@ -72,11 +72,6 @@ I'm a Data Analytics Engineering graduate student at Northeastern University wit
 - Optimized Logistic Regression model with 92% prediction accuracy
 - Improved performance by 10% over baseline through feature engineering & hyperparameter tuning
 
-## 📊 GitHub Stats
-
-![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyashah99&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyashah99&layout=compact&theme=radical)
-
 ## 📫 Let's Connect!
 
 I'm always interested in collaborating on interesting data science and machine learning projects. Feel free to reach out to me through:
