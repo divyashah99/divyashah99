@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Divya Shah
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyashah99/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://divyashah99.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://divyabshah.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shah.divyab@northeastern.edu)
 
 ## 👨‍🎓 About Me
@@ -20,6 +20,20 @@ I'm a Data Analytics Engineering graduate student at Northeastern University wit
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+
+### AI & LLM Technologies
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=amd&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=retriever&logoColor=white)
+
+### Vector Databases & Embeddings
+![AstraDB](https://img.shields.io/badge/AstraDB-3A3A42?style=flat-square&logo=datastax&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0081CB?style=flat-square&logo=meta&logoColor=white)
 
 ### Data Science & ML Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -42,6 +56,18 @@ I'm a Data Analytics Engineering graduate student at Northeastern University wit
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ## 🚀 Featured Projects
+
+### Flipkart Product Recommender - AI Chatbot
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+- Built AI-powered conversational chatbot using RAG architecture for intelligent product recommendations from 10K+ customer reviews
+- Implemented semantic search with AstraDB vector store and HuggingFace embeddings for context-aware retrieval
+- Integrated Groq's LLaMA 3.1 LLM with conversation history management for multi-turn contextual interactions
+- Deployed production-ready application on Kubernetes (GCP VM) with Prometheus/Grafana monitoring stack for real-time observability
 
 ### AI-Powered Text-to-SQL Chatbot
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
@@ -74,7 +100,7 @@ I'm a Data Analytics Engineering graduate student at Northeastern University wit
 
 ## 📫 Let's Connect!
 
-I'm always interested in collaborating on interesting data science and machine learning projects. Feel free to reach out to me through:
+I'm always interested in collaborating on interesting data engineering and AI projects. Feel free to reach out to me through:
 
 - Email: [shah.divyab@northeastern.edu](mailto:shah.divyab@northeastern.edu)
 - Phone: (857) 379-0299
