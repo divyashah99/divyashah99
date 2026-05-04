@@ -10,12 +10,12 @@ I'm a Data Analytics Engineering graduate from Northeastern University with expe
 
 I’ve worked across fintech and nonprofit domains, including Fidelity Investments and Tata Consultancy Services, delivering reliable data systems, automating workflows, and enabling data-driven decisions at scale.
 
-🔭 Currently focused on Data Engineering, MLOps, and LLM-powered systems
-🌱 Exploring advanced ML deployment, multimodal RAG pipelines, and agentic AI workflows
-💼 Experience as a Data Engineer at Fidelity Investments, TCS, and Community Dreams Foundation
-🛠 Skilled in Python, Spark, AWS/GCP, and modern ML frameworks
-🎓 Master’s in Data Analytics Engineering from Northeastern University
-📫 Reach me at: shah.divyab99@gmail.com
+- 🔭 Currently focused on Data Engineering, MLOps, and LLM-powered systems
+- 🌱 Exploring advanced ML deployment, multimodal RAG pipelines, and agentic AI workflows
+- 💼 Experience as a Data Engineer at Fidelity Investments, TCS, and Community Dreams Foundation
+- 🛠 Skilled in Python, Spark, AWS/GCP, and modern ML frameworks
+- 🎓 Master’s in Data Analytics Engineering from Northeastern University
+- 📫 Reach me at: shah.divyab99@gmail.com
 
 ## 🛠️ Technical Skills
 
