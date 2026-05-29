@@ -59,6 +59,19 @@ I’ve worked across fintech and nonprofit domains, including Fidelity Investmen
 
 ## 🚀 Featured Projects
 
+### FinSight — Autonomous Equity Research Platform
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-blue?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+- Built a production-grade multi-agent AI system that transforms stock tickers into structured investment memos using LangGraph orchestration and OpenAI structured outputs
+- Engineered a RAG pipeline over SEC 10-K/10-Q filings using EDGAR ingestion, section-aware chunking, OpenAI embeddings, and Qdrant vector search for citation-grounded analysis
+- Implemented MCP (Model Context Protocol) tool servers for Alpha Vantage APIs with parallel market, quant, news, and SEC research agents
+- Designed real-time streaming infrastructure with FastAPI SSE, Postgres-backed caching/rate limiting, and Dockerized deployment for reliable end-to-end AI workflows
+
 ### Flipkart Product Recommender - AI Chatbot
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
@@ -70,16 +83,6 @@ I’ve worked across fintech and nonprofit domains, including Fidelity Investmen
 - Implemented semantic search with AstraDB vector store and HuggingFace embeddings for context-aware retrieval
 - Integrated Groq's LLaMA 3.1 LLM with conversation history management for multi-turn contextual interactions
 - Deployed production-ready application on Kubernetes (GCP VM) with Prometheus/Grafana monitoring stack for real-time observability
-
-### AI-Powered Text-to-SQL Chatbot
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-- Developed an end-to-end MLOps pipeline with RAG-based retrieval & BigQuery integration
-- Reduced LLM API calls by 40% using schema embeddings
-- Automated schema extraction with Apache Airflow on GCP Cloud Composer
-- Implemented CI/CD pipelines with GitHub Actions for automated deployments
 
 ### Image Captioning with Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
